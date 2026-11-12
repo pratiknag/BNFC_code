@@ -276,6 +276,8 @@ bayes_insights.json and topography_summary.json.
   |   |-- bnfc_simulations.conf      BNFC settings per scenario and factor
   |   `-- bnfc_application.conf      BNFC (nonstat) configuration of the application
   |-- experiments/                   inputs and summaries of the two selection runs
+  |-- assets/                        figures shown in README.md
+  |-- LICENSE                        MIT License
   `-- src/python_scripts/
       |-- Train_BNFC.py              BNFC fit: variational inference, early stopping, pSGLD
       |-- Copula_BNFC.py             BNFC posterior predictive simulation
@@ -305,3 +307,8 @@ Folders created by the run scripts:
   - Logs: logs/.
 
 Every script prints its options with --help.
+
+License
+-------
+
+The code is released under the MIT License (file LICENSE).

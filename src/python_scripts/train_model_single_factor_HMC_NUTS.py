@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+# Created by Pratik Nag, May 2026 (approximate)
 
 """
 HMC/NUTS fit of the common factor copula model of Krupskii et al. (2018),

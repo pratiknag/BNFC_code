@@ -1,3 +1,4 @@
+# Created by Pratik Nag, November 2026 (approximate)
 """
 Rows of the two comparison tables of the main text, from the saved outputs:
 

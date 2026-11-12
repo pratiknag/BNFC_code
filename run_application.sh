@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Created by Pratik Nag, October 2026 (approximate)
 # ERA5 precipitation application: Sections 5.2-5.3 of the manuscript and Sections S7-S8 of the
 # supplement. Run from the repository root:
 #

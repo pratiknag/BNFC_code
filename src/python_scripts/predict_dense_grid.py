@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+# Created by Pratik Nag, October 2026 (approximate)
 
 """
 Posterior predictive maps of BNFC on a dense grid, given all locations of the

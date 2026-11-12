@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Created by Pratik Nag, November 2026 (approximate)
 # Reference scores for run_bnfc_app_tuning.sh: Student-t copula (Gaussian component of
 # application_precipitation_v2/models/competitor_kernel.txt) and Gaussian loading copula (K = 25),
 # refitted on 1994-2021 and scored on the 2022 validation days (columns tcopula_* and m1_* of

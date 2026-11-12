@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+# Created by Pratik Nag, October 2026 (approximate)
 
 """
 Simulation scenario (i) of the manuscript: gamma-factor data from the common

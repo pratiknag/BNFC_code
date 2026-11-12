@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+# Created by Pratik Nag, October 2026 (approximate)
 
 """
 Plots and tables comparing BNFC with the parametric single-factor copula

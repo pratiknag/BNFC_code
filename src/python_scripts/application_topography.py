@@ -1,3 +1,4 @@
+# Created by Pratik Nag, November 2026 (approximate)
 """
 Relief of the ERA5 domain for the factor maps of the application (Figure 3 of the manuscript)
 and its relation to the factor share and the skewness of the factor contribution.

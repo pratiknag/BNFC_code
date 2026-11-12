@@ -1,0 +1,8 @@
+# round 2: linear output layer (best in the interim score); regularisation and smoothness
+# of g over space for the full grid, capacity, learning rate, inner Monte Carlo size
+r2_h128_lin_wd1e3   --hidden 128 --depth 4 --out_act linear --weight_decay 1e-3
+r2_h128_lin_ff1     --hidden 128 --depth 4 --out_act linear --n_fourier 16 --fourier_scale 1.0
+r2_h256_lin_lr5e4   --hidden 256 --depth 4 --out_act linear --lr 5e-4 --epochs 150 --step_size 30
+r2_h128_lin_d6      --hidden 128 --depth 6 --out_act linear
+r2_h128_lin_M1x2    --hidden 128 --depth 4 --out_act linear --M1 200
+r2_h512_lin         --hidden 512 --depth 4 --out_act linear

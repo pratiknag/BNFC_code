@@ -1,0 +1,3 @@
+scenario,set,n_sites,model,mean_log_score,se,diff_to_best,diff_se,best
+reference_hmc,full,900,gamma,5009.4529949714015,45.03076972098657,0.0,0.0,True
+reference_hmc,observed,100,gamma,277.46268036959106,4.929145385083639,0.0,0.0,True

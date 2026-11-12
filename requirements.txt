@@ -1,0 +1,14 @@
+# Main environment (env/). Tested with Python 3.9.20, CUDA, one NVIDIA RTX 4090 (24 GB).
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.3.1
+matplotlib==3.9.4
+tqdm==4.67.1
+torch==2.7.1
+pyro-ppl==1.9.1
+# ERA5 application only
+xarray==2024.7.0
+netCDF4==1.7.2
+Cartopy==0.23.0
+# download of the ERA5 data only (src/python_scripts/download_era5.py)
+cdsapi

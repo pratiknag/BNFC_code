@@ -1,0 +1,11 @@
+# Bayesian transport map environment (env_batram/), CPU only. Tested with Python 3.11.5.
+# Install torch first from the CPU wheel index:
+#   env_batram/bin/pip install torch --index-url https://download.pytorch.org/whl/cpu
+# then this file:
+#   env_batram/bin/pip install -r requirements_batram.txt
+numpy==2.4.6
+pandas==3.1.0
+scipy==1.17.1
+gpytorch==1.15.2
+veccs==0.0.2
+batram @ git+https://github.com/katzfuss-group/batram.git

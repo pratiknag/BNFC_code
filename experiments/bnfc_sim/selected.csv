@@ -1,0 +1,4 @@
+scenario,cfg,model
+simulations_gamma,s8_M1_300_lr3e-3,stat
+simulations_mixgamma,n6_M1_200,nonstat
+simulations_signchange,n5_lr3e-3,nonstat

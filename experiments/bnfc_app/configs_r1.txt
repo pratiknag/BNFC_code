@@ -1,0 +1,7 @@
+# round 1: network size and output layer, SE kernel; exponential kernel
+r1_h64_soft    --hidden 64 --depth 3 --out_act softplus
+r1_h128_lin    --hidden 128 --depth 4 --out_act linear
+r1_h256_lin    --hidden 256 --depth 4 --out_act linear
+r1_h128_soft   --hidden 128 --depth 4 --out_act softplus
+r1_h128_lin_ff --hidden 128 --depth 4 --out_act linear --n_fourier 16
+r1_h128_lin_exp --hidden 128 --depth 4 --out_act linear --kernel exponential --init_lengthscale 0.3

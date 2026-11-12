@@ -1,0 +1,16 @@
+# environments
+env/
+env_batram/
+__pycache__/
+*.pyc
+# data, fitted models and results written by the run scripts
+era5/
+simulations_*/
+application_precipitation_v2/
+application_precipitation_full/
+results/
+results_n25/
+results_M1_M2/
+results_application/
+results_application_full/
+logs/

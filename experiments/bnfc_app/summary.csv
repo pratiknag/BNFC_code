@@ -1,0 +1,12 @@
+tag,nonstat_full,nonstat_observed,config,best_loss,epochs,fit_s,tcopula_full,tcopula_observed,m1_full,m1_observed
+interim_h128_lin,1860.7148340773265,125.64374721520598,,,,,,,,
+r1_h128_lin,1759.36068966527,116.15253651803744,--hidden 128 --depth 4 --out_act linear,-116.87728932499886,100.0,9317.0,,,,
+r1_h128_lin_exp,1982.2085661612289,120.8659368648171,--hidden 128 --depth 4 --out_act linear --kernel exponential --init_lengthscale 0.3,-121.3339968919754,100.0,4932.0,,,,
+r1_h128_lin_ff,1705.2759150690872,114.24338852901344,--hidden 128 --depth 4 --out_act linear --n_fourier 16,-114.36744010448456,62.0,5745.0,,,,
+r1_h128_soft,1768.8437765868432,116.2830614467602,--hidden 128 --depth 4 --out_act softplus,-117.18240565061569,100.0,9254.0,,,,
+r1_h256_lin,1767.0925786218445,116.7668431293432,--hidden 256 --depth 4 --out_act linear,-117.43922281265259,100.0,12394.0,,,,
+r1_h64_soft,1733.9321987776436,114.14062799955192,--hidden 64 --depth 3 --out_act softplus,-114.44557563960552,85.0,6446.0,,,,
+r2_h128_lin_ff1,1728.358638397602,114.26777627574162,--hidden 128 --depth 4 --out_act linear --n_fourier 16 --fourier_scale 1.0,-114.38340853154659,62.0,6260.0,,,,
+r2_h128_lin_wd1e3,1774.183634527217,116.2843691054205,--hidden 128 --depth 4 --out_act linear --weight_decay 1e-3,-116.80235429108143,100.0,9038.0,,,,
+r2_h256_lin_lr5e4,1764.7060923924898,116.048867709496,--hidden 256 --depth 4 --out_act linear --lr 5e-4 --epochs 150 --step_size 30,-116.79336260259151,150.0,12890.0,,,,
+ref_competitors,,,"Student-t copula and M1 (K=25), fitted on 1994-2021",,,,1839.3013918052056,113.69340358841411,1715.7338466123583,112.84596541335036

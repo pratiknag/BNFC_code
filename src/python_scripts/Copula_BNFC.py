@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-# Created by Pratik Nag, May 2026 (approximate)
+# Created by Pratik Nag, February 2025
 
 """
 Posterior predictive (conditional) simulation for BNFC.

@@ -1,4 +1,4 @@
-# Created by Pratik Nag, November 2026 (approximate)
+# Created by Pratik Nag, November 2026
 """Posterior summaries of the ERA5 BNFC (nonstat) fit that need the pSGLD weight samples
 (Section 5.3 of the manuscript); writes results_application/figures/bayes_insights.json."""
 import os, sys, json

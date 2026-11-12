@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Created by Pratik Nag, November 2026 (approximate)
+# Created by Pratik Nag, November 2026
 # Selection of the BNFC (nonstat) configuration of the ERA5 application, with the range of the
 # Gaussian component in the variational family (--vb_range). The result is already in
 # configs/bnfc_application.conf, so this script need not be rerun to reproduce the results.

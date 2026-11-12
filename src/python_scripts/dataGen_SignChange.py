@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-# Created by Pratik Nag, October 2026 (approximate)
+# Created by Pratik Nag, October 2026
 
 """
 Simulation scenario (ii) of the manuscript: a location-dependent factor whose

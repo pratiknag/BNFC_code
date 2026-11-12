@@ -1,4 +1,4 @@
-# Created by Pratik Nag, November 2026 (approximate)
+# Created by Pratik Nag, November 2026
 """
 Rows of the two comparison tables of the main text, from the saved outputs:
 

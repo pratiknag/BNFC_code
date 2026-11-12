@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-# Created by Pratik Nag, November 2026 (approximate)
+# Created by Pratik Nag, November 2026
 
 """
 Download the ERA5 hourly total precipitation over central Europe (15E-25E, 45N-55N) used in the

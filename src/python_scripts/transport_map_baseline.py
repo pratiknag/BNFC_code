@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-# Created by Pratik Nag, November 2026 (approximate)
+# Created by Pratik Nag, November 2026
 
 """
 Bayesian transport map (Katzfuss and Schafer, batram package) as a nonparametric benchmark for

@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-# Created by Pratik Nag, October 2026 (approximate)
+# Created by Pratik Nag, October 2026
 
 """
 Simulation scenario (iii) of the manuscript: data from a location-specific

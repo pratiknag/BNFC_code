@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Created by Pratik Nag, November 2026 (approximate)
+# Created by Pratik Nag, November 2026
 # Selection of the BNFC settings of the simulation study (Section S6.8 and Table S7 of the
 # supplement). The result is already in configs/bnfc_simulations.conf, so this script need not
 # be rerun to reproduce the results. It needs the data of run_simulations.sh (stage 1) and, for

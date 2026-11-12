@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Created by Pratik Nag, October 2026 (approximate)
+# Created by Pratik Nag, October 2026
 # Simulation study: Section 5.1 of the manuscript and Section S6 of the supplement. Generates
 # the data, fits every model, and writes every simulation table and figure. Run from the
 # repository root:

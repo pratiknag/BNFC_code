@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-# Created by Pratik Nag, August 2025 (approximate)
+# Created by Pratik Nag, August 2025
 
 """
 Tail flexibility of the BNFC copula (Section 3.3 of the manuscript, Section S3 of the supplement).
